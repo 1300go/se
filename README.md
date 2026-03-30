@@ -1,6 +1,7 @@
-<<<<<<< HEAD
-SE test
-Pull Request test content
-=======
-# se
->>>>>>> 3a26e4f772bc2de90b5b412420ae620bb3673590
+# Software Engineering Project
+
+이 리포지토리는 소프트웨어 공학 과제 수행을 위한 공간입니다.
+
+## 과제 결과물 위치
+* [프로젝트 정의서](./doc/Project_Definition.md)
+* [품질 요소 추정](./doc/Quality_Estimation.md)
